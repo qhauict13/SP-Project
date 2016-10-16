@@ -1,0 +1,17 @@
+[Wed Sep 21 10:26:24.247 2016] 0.003 sec [ext2/1/attr- 0 (0,50) @keywords_crc] [wp_stats]
+[Wed Sep 21 10:26:24.911 2016] 0.000 sec [ext2/1/attr- 0 (0,50) @keywords_crc] [wp_stats]
+[Wed Sep 21 10:26:25.580 2016] 0.000 sec [ext2/1/attr- 0 (0,50) @keywords_crc] [wp_stats]
+[Wed Sep 21 10:47:40.605 2016] 0.000 sec [ext2/1/attr- 0 (0,50) @keywords_crc] [wp_stats]
+[Wed Sep 21 10:47:42.536 2016] 0.000 sec [ext2/1/attr- 0 (0,50) @keywords_crc] [wp_stats]
+[Wed Sep 21 11:43:01.451 2016] 0.004 sec [ext2/0/tsegs 8 (0,10)] [wp_] post
+[Wed Sep 21 11:43:01.458 2016] 0.003 sec [ext2/0/tsegs 2 (0,1000) @post_type] [wp_] post
+[Wed Sep 21 13:08:50.860 2016] 0.000 sec [ext2/0/tsegs 8 (0,10)] [wp_] post
+[Wed Sep 21 13:08:50.869 2016] 0.005 sec [ext2/0/tsegs 2 (0,1000) @post_type] [wp_] post
+[Wed Sep 21 15:08:23.922 2016] 0.000 sec [ext2/1/attr- 0 (0,50) @keywords_crc] [wp_stats]
+[Wed Sep 21 15:08:25.426 2016] 0.000 sec [ext2/1/attr- 0 (0,50) @keywords_crc] [wp_stats]
+[Wed Sep 21 15:08:26.629 2016] 0.000 sec [ext2/1/attr- 0 (0,50) @keywords_crc] [wp_stats]
+[Fri Sep 23 08:04:46.815 2016] 0.000 sec [ext2/1/attr- 1 (0,50) @keywords_crc] [wp_stats]
+[Fri Sep 23 08:04:48.026 2016] 0.000 sec [ext2/1/attr- 1 (0,50) @keywords_crc] [wp_stats]
+[Sat Sep 24 00:30:49.434 2016] 0.000 sec [ext2/1/attr- 1 (0,50) @keywords_crc] [wp_stats]
+[Sat Sep 24 00:30:51.406 2016] 0.000 sec [ext2/1/attr- 1 (0,50) @keywords_crc] [wp_stats]
+[Sat Sep 24 00:30:52.266 2016] 0.000 sec [ext2/1/attr- 1 (0,50) @keywords_crc] [wp_stats]

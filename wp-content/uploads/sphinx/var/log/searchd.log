@@ -1,0 +1,25 @@
+[Wed Sep 21 10:26:16.085 2016] [ 7964] accepting connections
+[Wed Sep 21 16:05:07.098 2016] [ 7964] caught SIGTERM, shutting down
+[Wed Sep 21 16:05:07.102 2016] [ 7964] shutdown complete
+[Fri Sep 23 08:04:26.600 2016] [16006] accepting connections
+[Fri Sep 23 08:04:31.124 2016] [16006] rotating indices (seamless=1)
+[Fri Sep 23 08:04:31.126 2016] [16006] rotating index 'wp_stats': success
+[Fri Sep 23 08:04:31.128 2016] [16006] rotating index 'wp_delta': success
+[Fri Sep 23 08:04:31.130 2016] [16006] rotating index 'wp_main': success
+[Fri Sep 23 08:04:31.130 2016] [16006] rotating finished
+[Fri Sep 23 08:11:59.361 2016] [16006] caught SIGTERM, shutting down
+[Fri Sep 23 08:11:59.362 2016] [16006] shutdown complete
+[Fri Sep 23 23:59:01.981 2016] [10609] accepting connections
+[Fri Sep 23 23:59:06.572 2016] [10609] caught SIGTERM, shutting down
+[Fri Sep 23 23:59:06.576 2016] [10609] shutdown complete
+[Fri Sep 23 23:59:08.078 2016] [10630] accepting connections
+[Fri Sep 23 23:59:30.336 2016] [10630] rotating indices (seamless=1)
+[Fri Sep 23 23:59:30.339 2016] [10630] rotating index 'wp_stats': success
+[Fri Sep 23 23:59:30.341 2016] [10630] rotating index 'wp_delta': success
+[Fri Sep 23 23:59:30.342 2016] [10630] rotating index 'wp_main': success
+[Fri Sep 23 23:59:30.342 2016] [10630] rotating finished
+[Fri Sep 23 23:59:32.163 2016] [10630] caught SIGTERM, shutting down
+[Fri Sep 23 23:59:32.163 2016] [10630] shutdown complete
+[Fri Sep 23 23:59:32.176 2016] [10676] accepting connections
+[Sat Sep 24 08:14:40.676 2016] [10676] caught SIGTERM, shutting down
+[Sat Sep 24 08:14:40.677 2016] [10676] shutdown complete
